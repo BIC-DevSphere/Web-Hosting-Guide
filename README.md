@@ -1,5 +1,5 @@
 
-## InfinityFree Guide
+## Weather App Hosting Guide
 
 ### Account Creation
 
