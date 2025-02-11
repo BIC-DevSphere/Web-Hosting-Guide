@@ -42,9 +42,7 @@
    [![File Manager](images/dashboard.png)](images/dashboard.png)
 2. Open **htdocs** folder, delete any files present and upload your 4 files (HTML, CSS, JS and PHP).
 
-   [![htdocs folder](images/htdocs_folder.png)](images/htdocs_folder.png)
-
-   [![Upload files](images/upload_files.png)](images/upload_files.png)
+   [![Upload files](images/upload.png)](images/upload_files.png)
 
 ### Creating a database for our domain
 
